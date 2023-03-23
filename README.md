@@ -1,3 +1,3 @@
 # ToastFish
 复刻站内ToastFish作品。
-供自己学习用途。
+仅用于自己学习项目。
